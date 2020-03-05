@@ -81,13 +81,29 @@ footer{
     bottom: 5px;
 }
 
-article{
+section{
     text-align: center;
     padding-top: 150px;
+    
 }
 
+article{
+    display: inline;
+    width: 15%;
+    float: right;
+    margin-right: 6vw;
+    
+    padding-top: 10vh;
+    
+
+}
+
+
+
 .video1{
-    width: 50vw;
+    width: 40vw;
+    
+    
 }
 .video2{
     width: 50vw;
